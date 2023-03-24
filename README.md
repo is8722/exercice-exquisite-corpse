@@ -1,2 +1,1 @@
-# exercice-exquisite-corpse
-exercice exquisite corpse
+# Cadavre exquis I.M
